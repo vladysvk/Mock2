@@ -1,3 +1,4 @@
+/* Css to index html */
 * {
     margin: 0;
     padding: 0;
@@ -10,7 +11,7 @@ body {
     margin: 0;
     padding: 0;
 }
-  
+
 header {
     text-align: center;  
     padding: 20px;
@@ -79,4 +80,4 @@ main {
         align-items: center;    
     }
 }
-  
+/* Css to index html */
