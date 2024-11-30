@@ -72,4 +72,11 @@ main {
 .links a:hover {
     color:aqua;
   }
+
+@media (max-width: 768px) {
+    .columns {
+        flex-direction: column; 
+        align-items: center;    
+    }
+}
   
