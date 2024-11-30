@@ -38,7 +38,8 @@ main {
     color: #333;
     max-width: 200px;
     padding: 10px 15px;
-    transition: all 0.3s ease;
+    transition: all 0.3s ease;    
+    
 }
 
 .links a:hover {
